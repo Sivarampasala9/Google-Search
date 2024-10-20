@@ -1,4 +1,4 @@
-// Write your code here
+
 import {Component} from 'react'
 import SuggestionItem from '../SuggestionItem'
 import './index.css'
